@@ -23,7 +23,7 @@ Currently learning:
 
 ## 📈 GitHub Stats
 
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-martins-dev&show_icons=true&theme=dracula)  
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-martins-dev&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-martins-dev&layout=compact&theme=dracula)
 
 ---

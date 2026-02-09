@@ -1,7 +1,7 @@
 
 # 👋 Hey, I'm João!
 
-🎯 Aspiring Front-End Developer, passionate about technology, programming logic, and creative user interfaces.  
+🎯 Front-End Developer in progress, passionate about technology, programming logic, and creative user interfaces.  
 🚀 I share projects, studies, and explorations in the dev world and geek culture.  
 🎮 Fan of games, anime, comics, and everything involving creativity and innovation.
 
@@ -24,6 +24,7 @@ Currently learning:
 ## 📈 GitHub Stats
 
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-martins-dev&show_icons=true&theme=dracula)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-martins-dev&layout=compact&theme=dracula)
 
 ---
